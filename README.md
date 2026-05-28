@@ -62,10 +62,7 @@ This project analyzes Brazilian e-commerce sales data using Python and Power BI 
 ---
 
 ## 📷 Dashboard Preview
-
-(Add your screenshot here)
-
----
+<img width="1289" height="725" alt="Screenshot 2026-05-28 202649" src="https://github.com/user-attachments/assets/86db680a-5348-427d-82e1-fa3754ad4ed5" />
 
 ## 🔗 Dataset Source
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
